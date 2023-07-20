@@ -1,4 +1,4 @@
-- Hi, I’m @MykBamberg
+# Hi, I’m Mykolas
 - I’m interested in:
     
     Linux, GNU, KDE
