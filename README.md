@@ -5,7 +5,7 @@
     
     C/C++, C#
     
-    STM32, AVR(ATTiny), Electronic engineering
+    STM32, AVR(ATTiny), Electronics engineering
   
 - I’m currently learning:
 
