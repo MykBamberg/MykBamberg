@@ -1,14 +1,16 @@
 # Hi, I’m Mykolas
 - I’m interested in:
     
-    Linux, GNU, KDE
+    Linux, GNU, KDE, Open Source
     
-    C/C++, C#
+    C, Zig, Rust
     
     STM32, AVR(ATTiny), Electronics engineering
+
+    3D Printing, CNC Machining
   
 - I’m currently learning:
 
-    Electronic engineering
+    Electronics engineering
     
-    CAD, CAM
+    Zig, Rust
