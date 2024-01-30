@@ -10,7 +10,5 @@
     3D Printing, CNC Machining
   
 - I’m currently learning:
-
-    Electronics engineering
     
     Zig, Rust
