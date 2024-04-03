@@ -1,14 +1,19 @@
 # Hi, I’m Mykolas
 - I’m interested in:
     
-    Linux, GNU, KDE, Open Source
-    
-    C, Zig, Rust
-    
-    STM32, AVR(ATTiny), Electronics engineering
+    Linux, GNU, KDE, Free and Open Source software
 
-    3D Printing, CNC Machining
+    STM32, AVR (ATTiny), Digital electronics
+
+    CAD, CAM, 3D Printing, CNC Machining
+
+- Programming laguages I use:
+
+    C, C++, Zig,
   
-- I’m currently learning:
+    Python, BASH, fish
+
+    C#, Java
+  
     
-    Zig, Rust
+[KDE GitLab](https://invent.kde.org/mykbamberg) - [GNOME GitLab](https://gitlab.gnome.org/MykBamberg)
