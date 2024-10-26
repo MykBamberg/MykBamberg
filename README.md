@@ -1,19 +1,13 @@
 # Hi, I’m Mykolas
-- I’m interested in:
-    
-    Linux, GNU, KDE, Free and Open Source software
+### I’m interested in
+- Digital electronics, computer engineering
+- Embedded software development (ARM/STM32, AVR/ATtiny)
+- Linux, GNU, Free and Open Source software
+- CAD, CAM, 3D Printing, CNC Machining
 
-    STM32, AVR (ATTiny), Digital electronics
+### Programming laguages I use
+- C, C++, Zig
+- Python, POSIX Shell
+- C#, Java
 
-    CAD, CAM, 3D Printing, CNC Machining
-
-- Programming laguages I use:
-
-    C, C++, Zig,
-  
-    Python, BASH, fish
-
-    C#, Java
-  
-    
 [KDE GitLab](https://invent.kde.org/mykbamberg) - [GNOME GitLab](https://gitlab.gnome.org/MykBamberg)
