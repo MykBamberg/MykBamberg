@@ -1,4 +1,3 @@
-# Hi, I’m Mykolas
 ### I’m interested in
 - Digital electronics, computer engineering
 - Embedded software development (ARM/STM32, AVR/ATtiny)
