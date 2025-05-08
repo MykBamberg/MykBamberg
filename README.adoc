@@ -1,0 +1,7 @@
+= MykBamberg
+Mykolas Bamberg <m.a.bamberg.dev@proton.me>
+:hide-uri-scheme:
+:hardbreaks-option:
+:notitle:
+
+image::resources/language-graph.svg[alt='Most Used Languages']
