@@ -1,0 +1,22 @@
+= MykBamberg
+Mykolas Bamberg <m.a.bamberg.dev@proton.me>
+:source-highlighter: pygments
+:hide-uri-scheme:
+:hardbreaks-option:
+:notitle:
+
+== Interests
+
+* Digital electronics, computer engineering
+* Embedded software development
+* Free and Open Source software
+
+== Most Used Languages
+
+image::resources/language-graph.svg[alt='Most Used Languages']
+
+== Game of Life
+
+image::resources/game-of-life.svg[alt='Game of Life']
+
+ℹ️ Updates once every day

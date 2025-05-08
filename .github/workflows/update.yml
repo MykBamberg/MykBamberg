@@ -1,0 +1,28 @@
+name: Automatic Updates
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 0 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Game of Life
+        run: ./game-of-life.py
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+      - name: Update Language Stats
+        run: |
+            pip install -r requirements.txt && ./language-usage-stats.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Automatic Update
+          commit_author: 'github-actions[bot] <user@domain.invalid>'
