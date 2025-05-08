@@ -17,7 +17,7 @@ jobs:
         run: ./generate-svg.py
       - name: Update Language Stats
         run: |
-          if [ $(($(git rev-list --count HEAD) % 24)) -eq 1 ]; then \
+          if [ $(date +%H) -eq 0 ]; then \
             sudo apt install -y python3-matplotlib python3-aiohttp && \
             (./language-usage-stats.py | ./create-language-graph.py); \
           else echo skipped; fi
