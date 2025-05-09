@@ -64,9 +64,10 @@ async def main():
             language_info = languages.get(name, (0, color))
             languages[name] = (language_info[0] + size, color)
     
-    total_size = sum(map(lambda l: l[0], languages.values()))
+    top_n_languages = sorted(languages.items(), key=lambda x: x[1][0], reverse=True)[:MAX_COUNT]
+    total_size = sum(map(lambda l: l[1][0], top_n_languages))
 
-    for name, info in sorted(languages.items(), key=lambda x: x[1][0], reverse=True)[:MAX_COUNT]:
+    for name, info in top_n_languages:
         print(f'{name},{info[0] / total_size:.3f},{info[1]}')
 
 if __name__ == '__main__':
