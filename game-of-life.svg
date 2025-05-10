@@ -204,7 +204,7 @@ fill="black"
 fill="black"
 />
 <rect x="97" y="25" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="25" width="10" height="10"
 fill="black"
@@ -291,13 +291,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="37" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="97" y="37" width="10" height="10"
 fill="white"
 />
 <rect x="109" y="37" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="121" y="37" width="10" height="10"
 fill="black"
@@ -381,13 +381,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="49" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="97" y="49" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="49" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="121" y="49" width="10" height="10"
 fill="black"
@@ -468,7 +468,7 @@ fill="black"
 fill="black"
 />
 <rect x="73" y="61" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="85" y="61" width="10" height="10"
 fill="black"
@@ -480,7 +480,7 @@ fill="black"
 fill="black"
 />
 <rect x="121" y="61" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="133" y="61" width="10" height="10"
 fill="black"
@@ -558,7 +558,7 @@ fill="black"
 fill="black"
 />
 <rect x="73" y="73" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="85" y="73" width="10" height="10"
 fill="black"
@@ -570,7 +570,7 @@ fill="black"
 fill="black"
 />
 <rect x="121" y="73" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="133" y="73" width="10" height="10"
 fill="black"
@@ -582,16 +582,16 @@ fill="black"
 fill="black"
 />
 <rect x="169" y="73" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="181" y="73" width="10" height="10"
 fill="black"
 />
 <rect x="193" y="73" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="205" y="73" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="217" y="73" width="10" height="10"
 fill="black"
@@ -651,13 +651,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="85" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="97" y="85" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="85" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="121" y="85" width="10" height="10"
 fill="black"
@@ -693,10 +693,10 @@ fill="black"
 fill="black"
 />
 <rect x="253" y="85" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="265" y="85" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="277" y="85" width="10" height="10"
 fill="black"
@@ -741,13 +741,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="97" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="97" y="97" width="10" height="10"
 fill="white"
 />
 <rect x="109" y="97" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="121" y="97" width="10" height="10"
 fill="black"
@@ -765,10 +765,10 @@ fill="black"
 fill="black"
 />
 <rect x="181" y="97" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="193" y="97" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="205" y="97" width="10" height="10"
 fill="black"
@@ -780,16 +780,16 @@ fill="black"
 fill="black"
 />
 <rect x="241" y="97" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="253" y="97" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="265" y="97" width="10" height="10"
 fill="white"
 />
 <rect x="277" y="97" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="289" y="97" width="10" height="10"
 fill="black"
@@ -834,7 +834,7 @@ fill="black"
 fill="black"
 />
 <rect x="97" y="109" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="109" width="10" height="10"
 fill="black"
@@ -855,7 +855,7 @@ fill="black"
 fill="black"
 />
 <rect x="181" y="109" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="193" y="109" width="10" height="10"
 fill="white"
@@ -864,7 +864,7 @@ fill="white"
 fill="white"
 />
 <rect x="217" y="109" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="229" y="109" width="10" height="10"
 fill="white"
@@ -924,7 +924,7 @@ fill="black"
 fill="black"
 />
 <rect x="97" y="121" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="121" width="10" height="10"
 fill="black"
@@ -945,7 +945,7 @@ fill="black"
 fill="black"
 />
 <rect x="181" y="121" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="193" y="121" width="10" height="10"
 fill="white"
@@ -963,7 +963,7 @@ fill="white"
 fill="black"
 />
 <rect x="253" y="121" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="265" y="121" width="10" height="10"
 fill="white"
@@ -1011,13 +1011,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="133" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="97" y="133" width="10" height="10"
 fill="white"
 />
 <rect x="109" y="133" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="121" y="133" width="10" height="10"
 fill="black"
@@ -1050,7 +1050,7 @@ fill="white"
 fill="white"
 />
 <rect x="241" y="133" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="253" y="133" width="10" height="10"
 fill="black"
@@ -1101,13 +1101,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="145" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="97" y="145" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="145" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="121" y="145" width="10" height="10"
 fill="black"
@@ -1131,7 +1131,7 @@ fill="white"
 fill="white"
 />
 <rect x="205" y="145" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="217" y="145" width="10" height="10"
 fill="black"
@@ -1188,7 +1188,7 @@ fill="black"
 fill="black"
 />
 <rect x="73" y="157" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="85" y="157" width="10" height="10"
 fill="black"
@@ -1200,7 +1200,7 @@ fill="black"
 fill="black"
 />
 <rect x="121" y="157" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="133" y="157" width="10" height="10"
 fill="black"
@@ -1278,7 +1278,7 @@ fill="black"
 fill="black"
 />
 <rect x="73" y="169" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="85" y="169" width="10" height="10"
 fill="black"
@@ -1290,7 +1290,7 @@ fill="black"
 fill="black"
 />
 <rect x="121" y="169" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="133" y="169" width="10" height="10"
 fill="black"
@@ -1371,13 +1371,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="181" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="97" y="181" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="181" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="121" y="181" width="10" height="10"
 fill="black"
@@ -1461,13 +1461,13 @@ fill="black"
 fill="black"
 />
 <rect x="85" y="193" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="97" y="193" width="10" height="10"
 fill="white"
 />
 <rect x="109" y="193" width="10" height="10"
-fill="white"
+fill="black"
 />
 <rect x="121" y="193" width="10" height="10"
 fill="black"
@@ -1554,7 +1554,7 @@ fill="black"
 fill="black"
 />
 <rect x="97" y="205" width="10" height="10"
-fill="black"
+fill="white"
 />
 <rect x="109" y="205" width="10" height="10"
 fill="black"
